@@ -1,4 +1,4 @@
-local mira_random = require("mira.random.random")
+local mira_random = require("mira.random")
 
 function init(self)
 
