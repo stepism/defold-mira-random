@@ -15,5 +15,5 @@ input_method = HiddenInputField
 title = defold-mira-random
 
 [library]
-include_dirs = mira
+include_dirs = mira/random
 
